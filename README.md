@@ -4,6 +4,10 @@
 ## Requirements
 
     npm install -g grunt-cli
+    
+run npm install
+
+	npm install
 
 ## Watching the presentation
 
@@ -13,18 +17,14 @@ To watch the presentation you must globally install http-server
     
 Then run grunt scm:revealjs to properly download reveal.js and then
 
-    cd presentation
     grunt scm --reset=hard
+    cd presentation
     http-server
     
 This will start a web server probably on port 8080 then go to http://localhost:8080/
 
 
 ## Building the app
-
-run npm install
-
-    npm install
     
 run grunt
 

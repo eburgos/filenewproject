@@ -2,3 +2,4 @@
 node_modules
 tsd-debug.log
 ninejs.pid
+.idea/
