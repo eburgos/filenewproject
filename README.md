@@ -3,7 +3,7 @@
 
 ## Requirements
 
-    npm install -g grunt
+    npm install -g grunt-cli
 
 ## Watching the presentation
 
